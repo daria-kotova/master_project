@@ -24,9 +24,9 @@ Feedback/observations:
 
 In the second session things got weird. We started from zero and I was just observing. This is the story participants created: flying jacket on the cloud, that can have some rest by hanging on the cliff. The war of three armies. Underworld, with a castle and evil eye. Someone died playing a giant tic tac toe. A gate to enter tic-tac-toe. It’s all imagination of a girl dying her hair.
 
-![session2-1](/research/photos/2024-12-18-test-day/session2-01.jpg)
+<img src="/research/photos/2024-12-18-test-day/session2-01.jpg" width="500" />
 
-![session2-2](/research/photos/2024-12-18-test-day/session2-02.jpg)
+<img src="/research/photos/2024-12-18-test-day/session2-02.jpg" width="500" />
 
 Feedback/observations:
 
@@ -70,7 +70,7 @@ Results
 
 ## 17-12-2024
 
-![firsttests1](/research/photos/2024-12-17/IMG_2973%202.JPG)
+<img src="/research/photos/2024-12-17/IMG_2973%202.JPG" width="500" />
 
 Did some tests with classmates. The first one was with Andrés. This time I left the canvas clear. We were creating the world together by drawing and adding objects in turns, starting from Andrés choosing a place and time. At some point I introduced a rule: every turn you needed to pick an object and draw something around it to integrate it into the space. The space had several dimensions, not just common horizontal surface.
 
@@ -78,20 +78,21 @@ In the end, we didn't really build a world, but rather created a story. The Stor
 
 The second test was with Jasmine. This time, I changed pieces of paper to rolls of paper, since it's easier to set up. I definitely need more objects, but the concept works well, everyone is entertained and it's interesting to see how people interprate the objects.
 
-![firsttests1](/research/photos/2024-12-17/IMG_2975%202.JPG)
+<img src="/research/photos/2024-12-17/IMG_2975%202.JPG" width="500" />
 
 Story behind: we're in Germany, in the mountains. There's a castle on top of the mountain like in Cinderella. On another mountain, goats are running and enjoying their lives. There's a lake with a waterfall and rocks at the bottom. A playground. Suddenly, in the sky a dragon appears. But don't worry, a diabolic angel with thousand eyes is going to fight it. Supporters on the stadium are observing the scene.
 
 Spent the rest of the day making more objects and setting up for the test day.
 
-![testdayprep1](/research/photos/2024-12-17/IMG_2988.JPG)
-![testdayprep2](/research/photos/2024-12-17/IMG_2989.JPG)
+<img src="/research/photos/2024-12-17/IMG_2988.JPG" width="500" />
+
+<img src="/research/photos/2024-12-17/IMG_2989.JPG" width="500" />
 
 ## 16-12-2024
 
 Created various paper/cardboard abstract objects and placed them in the space. Just placing them like that did not give any ideas, need some prompts.
 
-![objects](/research/photos/2024-12-16/IMG_2960.JPG)
+<img src="/research/photos/2024-12-16/IMG_2960.JPG" width="500" />
 
 ## 11-12-2024
 
