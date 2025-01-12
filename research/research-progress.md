@@ -1,5 +1,53 @@
 # Master's project research progress
 
+## 09-01-2025
+
+From the test day, it was clear that people enjoyed the experiment and had a lot of fun creating worlds using abstract objects and drawing. To see clearer what aspects of the experiment impacted more the satisfaction from it, I tried a number of quick variations of the original test.
+
+First, I asked one of the original participants to do the same task but all alone (no photo).
+
+Feedback/observations:
+
+- The experience was less smooth and sometimes she was struggling with where to lead her story further, while in the collective test you can let the other person decide for you the next part
+
+- Since it was just her, she wanted to keep the consistency and used similar objects
+
+- At some time she switched her initial idea: a mountain later became a building
+
+- She was reusing ideas that they had had during the second session of the test day. Need variation of objects
+
+- Overall impression: less fun and too much to think about. It was in a way easy, but she had to deal with too many ideas, while with others the control of the story-telling is shared.
+
+———
+
+In the second test, the objects were chosen by others and you had to use it.
+
+<img src="/research/photos/2024-01-09/IMG_3207.JPG" width="500" />
+
+Feedback/observations:
+
+- "When the level of freedom is too high, you don’t have freedom anymore". Being forced to use an object actually simplified things and pushed one's imagination.
+
+- Somehow it makes you focus more on the story
+
+———
+
+Those two quick tests showed that collaboration was essential in making the experiment fun and contributed to a ricjer story-telling, while the freedom of choice of the objects didn't matter that much and rather complicated things.
+
+———
+
+It made sense to try out a similar test (world creation in a group), but with more concrete objects.
+
+<img src="/research/photos/2024-01-09/IMG_3210.JPG" width="500" />
+
+Feedback/observations:
+
+- Using real objects adds to the fun. If you look without knowing the story, it’s random objects, and only the creators really know the story. May be suitable for a drinking game?
+
+- Some people may be trapped by the real object. You really need to ignore their original purpose and focus on the shape which is not always easy.
+
+- Abstract objects open imagination. They immerse more in the world. The story is easier to build. More serious and artsy.
+
 ## 18-12-2024 (Test day)
 
 In the first session, I took part in the experiment with others. We started by choosing a place and a time and ended up with a beach scene, nothing crazy. Participants suggested trying to start from zero and not intervening to see what it gives.
