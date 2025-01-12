@@ -56,8 +56,6 @@ Second test: make the space on the photo yours, make it more beautiful, add what
 
 <img src="/research/photos/2025-01-10/test2-4.jpg" width="500" />
 
-<img src="/research/photos/2025-01-10/test2-5.jpg" width="500" />
-
 Feedback/observations:
 
 - The task wasn't always clear and people interpreted it differently. One participant took it literally and was turning public spaces into her personal ones, ignoring the space itself (the ugly graffiti)
@@ -73,6 +71,10 @@ Feedback/observations:
 - Sometimes people didn't want to add any elements to familiar places.
 
 <img src="/research/photos/2025-01-10/test2-7.jpg" width="500" />
+
+Conclusion:
+
+I wanted to see how the space itself can inspire people, but results showed that it isn't always sufficient to spark ideas.
 
 ## 09-01-2025
 
