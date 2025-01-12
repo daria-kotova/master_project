@@ -4,9 +4,9 @@
 
 In the first session, I took part in the experiment with others. We started by choosing a place and a time and ended up with a beach scene, nothing crazy. Participants suggested trying to start from zero and not intervening to see what it gives.
 
-<img src="/research/photos/2024-12-18-test-day/session1-01.jpg" width="50%" />
+<img src="/research/photos/2024-12-18-test-day/session1-01.jpg" width="500" />
 
-![session1-2](/research/photos/2024-12-18-test-day/session1-02.jpg)
+<img src="/research/photos/2024-12-18-test-day/session1-02.jpg" width="500" />
 
 Feedback/observations:
 
