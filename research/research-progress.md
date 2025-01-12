@@ -44,6 +44,36 @@ Conclusion:
 
 - The objects were curated by me. Not everyone pays attention to their surroundings?
 
+———
+
+Second test: make the space on the photo yours, make it more beautiful, add what's missing or whatever you want.
+
+<img src="/research/photos/2025-01-10/test2-1.jpg" width="500" />
+
+<img src="/research/photos/2025-01-10/test2-2.jpg" width="500" />
+
+<img src="/research/photos/2025-01-10/test2-3.jpg" width="500" />
+
+<img src="/research/photos/2025-01-10/test2-4.jpg" width="500" />
+
+<img src="/research/photos/2025-01-10/test2-5.jpg" width="500" />
+
+Feedback/observations:
+
+- The task wasn't always clear and people interpreted it differently. One participant took it literally and was turning public spaces into her personal ones, ignoring the space itself (the ugly graffiti)
+
+<img src="/research/photos/2025-01-10/test2-5.jpg" width="500" />
+
+- Participant who was struggling with the previous test and claimed he couldn't draw seemed much more invested this time and gave more creative results, since the task was more open in a way.
+
+- Photo with graffiti - painting on wall, not really new
+
+<img src="/research/photos/2025-01-10/test2-6.jpg" width="500" />
+
+- Sometimes people didn't want to add any elements to familiar places.
+
+<img src="/research/photos/2025-01-10/test2-7.jpg" width="500" />
+
 ## 09-01-2025
 
 From the test day, it was clear that people enjoyed the experiment and had a lot of fun creating worlds using abstract objects and drawing. To see clearer what aspects of the experiment impacted more the satisfaction from it, I tried a number of quick variations of the original test.
@@ -58,7 +88,7 @@ Feedback/observations:
 
 - At some time she switched her initial idea: a mountain later became a building
 
-- She was reusing ideas that they had had during the second session of the test day. Need variation of objects
+- She was reusing ideas that they had had during the second session of the test day. Need variation of objects. How to make sure that people do not get bored of the same objects?
 
 - Overall impression: less fun and too much to think about. It was in a way easy, but she had to deal with too many ideas, while with others the control of the story-telling is shared.
 
