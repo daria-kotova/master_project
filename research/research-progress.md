@@ -2,9 +2,47 @@
 
 ## 10-01-2025
 
-Test of drawing in the space (city), reference: Koketit ![koketit](https://cdn.shopify.com/s/files/1/0269/4846/8770/files/Website_05_fd98475d-9f7a-4bcc-a80b-5f4c34d61c24.jpg?v=1665066911)
+Test of drawing in the space (city), reference: Shira Barzilay (Koketit)
 
 <img src="https://cdn.shopify.com/s/files/1/0269/4846/8770/files/Website_05_fd98475d-9f7a-4bcc-a80b-5f4c34d61c24.jpg?v=1665066911" width="500" />
+
+First test: create a character based on objects on the photos
+
+<img src="/research/photos/2025-01-10/test1-1.JPG" width="500" />
+
+<img src="/research/photos/2025-01-10/test1-2.JPG" width="500" />
+
+<img src="/research/photos/2025-01-10/test1-3.JPG" width="500" />
+
+<img src="/research/photos/2025-01-10/test1-6.JPG" width="500" />
+
+<img src="/research/photos/2025-01-10/test1-7.JPG" width="500" />
+
+Feedback/observations:
+
+- Creating characters turned out to be easier and faster, because we all have an idea of what a character is. But once you know what you're doing, it becomes repetitive leading to a new constraint of trying to do something that you haven't already done.
+
+- For some it was difficult to go further than just a face or a stick man. Lack of variation in the results.
+
+- One participant said that it was obvious when she saw the pine tree photo and drew a peacock, while for me a hedgehog was more obvious. Different perspectives on the same thing.
+
+<img src="/research/photos/2025-01-10/test1-4.JPG" width="500" />
+
+<img src="/research/photos/2025-01-10/test1-5.JPG" width="500" />
+
+- Drawback: you can't choose the object (proved on 09.01.2025 that a "forced" object sparks more creativity) and position it as you want. Freedom in positioning is necessary.
+
+- Lacked social aspect and unexpected contribution to the story from others like in previous tests.
+
+- Photos were viewed more as a 2D space, the 3D aspect was often lost.
+
+Conclusion:
+
+- Overall, the objects on photos helped with ideas, but didn't lead to super creative results. Limitation of the task "create a character"?
+
+- Character creation and world-building are two different tasks. The former one is more suitable for one person, while the latter is more fun in collaboration.
+
+- The objects were curated by me. Not everyone pays attention to their surroundings?
 
 ## 09-01-2025
 
