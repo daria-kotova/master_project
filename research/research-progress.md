@@ -22,7 +22,7 @@ Feedback/observations:
 
 In the second test, the objects were chosen by others and you had to use it.
 
-<img src="/research/photos/2024-01-09/IMG_3207.JPG" width="500" />
+<img src="/research/photos/2025-01-09/IMG_3207.JPG" width="500" />
 
 Feedback/observations:
 
@@ -38,7 +38,7 @@ Those two quick tests showed that collaboration was essential in making the expe
 
 It made sense to try out a similar test (world creation in a group), but with more concrete objects.
 
-<img src="/research/photos/2024-01-09/IMG_3210.JPG" width="500" />
+<img src="/research/photos/2025-01-09/IMG_3210.JPG" width="500" />
 
 Feedback/observations:
 
