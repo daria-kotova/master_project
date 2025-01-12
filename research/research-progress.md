@@ -1,5 +1,11 @@
 # Master's project research progress
 
+## 10-01-2025
+
+Test of drawing in the space (city), reference: Koketit ![koketit](https://cdn.shopify.com/s/files/1/0269/4846/8770/files/Website_05_fd98475d-9f7a-4bcc-a80b-5f4c34d61c24.jpg?v=1665066911)
+
+<img src="https://cdn.shopify.com/s/files/1/0269/4846/8770/files/Website_05_fd98475d-9f7a-4bcc-a80b-5f4c34d61c24.jpg?v=1665066911" width="500" />
+
 ## 09-01-2025
 
 From the test day, it was clear that people enjoyed the experiment and had a lot of fun creating worlds using abstract objects and drawing. To see clearer what aspects of the experiment impacted more the satisfaction from it, I tried a number of quick variations of the original test.
@@ -20,7 +26,7 @@ Feedback/observations:
 
 ———
 
-In the second test, the objects were chosen by others and you had to use it.
+In the second test, the objects were chosen for you.
 
 <img src="/research/photos/2025-01-09/IMG_3207.JPG" width="500" />
 
@@ -28,7 +34,7 @@ Feedback/observations:
 
 - "When the level of freedom is too high, you don’t have freedom anymore". Being forced to use an object actually simplified things and pushed one's imagination.
 
-- Somehow it makes you focus more on the story
+- Somehow it makes you focus more on the story.
 
 ———
 
