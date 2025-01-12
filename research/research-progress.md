@@ -8,15 +8,15 @@ Test of drawing in the space (city), reference: Shira Barzilay (Koketit)
 
 First test: create a character based on objects on the photos
 
-<img src="/research/photos/2025-01-10/test1-1.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-1.jpg" width="500" />
 
-<img src="/research/photos/2025-01-10/test1-2.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-2.jpg" width="500" />
 
-<img src="/research/photos/2025-01-10/test1-3.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-3.jpg" width="500" />
 
-<img src="/research/photos/2025-01-10/test1-6.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-6.jpg" width="500" />
 
-<img src="/research/photos/2025-01-10/test1-7.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-7.jpg" width="500" />
 
 Feedback/observations:
 
@@ -26,9 +26,9 @@ Feedback/observations:
 
 - One participant said that it was obvious when she saw the pine tree photo and drew a peacock, while for me a hedgehog was more obvious. Different perspectives on the same thing.
 
-<img src="/research/photos/2025-01-10/test1-4.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-4.jpg" width="500" />
 
-<img src="/research/photos/2025-01-10/test1-5.JPG" width="500" />
+<img src="/research/photos/2025-01-10/test1-5.jpg" width="500" />
 
 - Drawback: you can't choose the object (proved on 09.01.2025 that a "forced" object sparks more creativity) and position it as you want. Freedom in positioning is necessary.
 
