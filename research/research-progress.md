@@ -242,4 +242,34 @@ _What are the first steps/experiments?_
 
 - see above
 - taking photos of ugly spots around the city and “improving them”
-- visual + audio cues on a larger scale with GPS-drawings
+- audio cues on a larger scale with GPS-drawings (tried before)
+
+# How it all started
+
+For my master's thesis I chose the topic of GPS-drawings and running. Among the aspects that I liked and decided to carry on with are:
+
+- drawing your body
+- interacting with the space, getting a new perspective on it
+- using city as your playground
+- community: sharing and creating with others
+- the idea of leaving an invisble trace
+
+<img src="/research/photos/thesis/all.jpg" width="500" />
+
+Some of the tests
+
+- giving each other a task of what to draw while running and doing it on the spot without consulting the map
+
+<img src="/research/photos/thesis/cloud.jpg" width="500" />
+
+<img src="/research/photos/thesis/star.jpg" width="500" />
+
+- trying to draw together simultaneously
+
+<img src="/research/photos/thesis/hi.jpg" width="500" />
+
+Results:
+
+- The GPS-tracking wasn't precise enough
+- It was hard to position yourself in the space and even harder to coordinate with each other
+- Curious to see the outcome. Doing it together added to the fun
