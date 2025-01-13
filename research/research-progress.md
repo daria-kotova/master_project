@@ -2,9 +2,9 @@
 
 ## 13-01-2025
 
-<img src="/research/photos/2025-01-13/objects.PNG" width="500" />
+<img src="/research/photos/2025-01-13/objects.PNG" width="700" />
 
-<img src="/research/photos/2025-01-13/objects+drawings.jpg" width="500" />
+<img src="/research/photos/2025-01-13/objects+drawings.jpg" width="700" />
 
 ## 10-01-2025
 
