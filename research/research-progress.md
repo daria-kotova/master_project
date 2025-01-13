@@ -46,7 +46,9 @@ Conclusion:
 
 ———
 
-Second test: make the space on the photo yours, make it more beautiful, add what's missing or whatever you want.
+Second test: make the space on the photo yours, make it more beautiful, add what's missing or whatever you want. Reference: Concrete genie
+
+<img src="https://i.ytimg.com/vi/BdOucoGD6EE/maxresdefault.jpg" width="500" />
 
 <img src="/research/photos/2025-01-10/test2-1.jpg" width="500" />
 
