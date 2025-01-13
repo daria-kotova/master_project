@@ -1,5 +1,11 @@
 # Master's project research progress
 
+## 13-01-2025
+
+<img src="/research/photos/2025-01-13/objects.PNG" width="500" />
+
+<img src="/research/photos/2025-01-13/objects+drawings.jpg" width="500" />
+
 ## 10-01-2025
 
 Test of drawing in the space (city), reference: Shira Barzilay (Koketit)
