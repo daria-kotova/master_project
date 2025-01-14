@@ -14,7 +14,7 @@ What I learnt so far:
 
 - Being able to use the 3D space with both horizontal and vertical surfaces is better than a common horizontal plane.
 
-- _Physical objects + 3D + 2D_ is so far the best combination.
+- _Physical objects + 3D + 2D_ is so far the best combination. But I should think of different purposes for each of the levels.
 
 - Forcing to use certain objects can be more creatively stimulating.
 
@@ -256,7 +256,9 @@ Feedback/observations:
 
 ———
 
-In the second session things got weird. We started from zero and I was just observing. This is the story participants created: flying jacket on the cloud, that can have some rest by hanging on the cliff. The war of three armies. Underworld, with a castle and evil eye. Someone died playing a giant tic tac toe. A gate to enter tic-tac-toe. It’s all imagination of a girl dying her hair.
+In the second session things got weird. We started from zero and I was just observing.
+
+Story: flying jacket on the cloud, that can have some rest by hanging on the cliff. The war of three armies. Underworld, with a castle and evil eye. Someone died playing a giant tic tac toe. A gate to enter tic-tac-toe. It’s all imagination of a girl dying her hair.
 
 <img src="/research/photos/2024-12-18-test-day/session2-01.jpg" width="500" />
 
@@ -308,13 +310,13 @@ Results
 
 Did some tests with classmates. The first one was with Andrés. This time I left the canvas clear. We were creating the world together by drawing and adding objects in turns, starting from Andrés choosing a place and time. At some point I introduced a rule: every turn you needed to pick an object and draw something around it to integrate it into the space. The space had several dimensions, not just common horizontal surface.
 
-In the end, we didn't really build a world, but rather created a story. The Story: New York, 2020, summer. It's a very hot day, there's steam rising from the ground. We can see the Central park, skyscrappers. Andrés is on his way to drop his kid at the kindergarten, but he's stuck at the highway, there're traffic jams and a car accident. Ambulances are trying to get to the injured man, but can't. Andrés gets his coffee and then goes to the accident scene to film it live. But he's not the only one recording, in the sky behind a cloud a helicopter with a cameraman appears. There's also a park with a Guggenheim exhibition. Under the ground, the subway lives its life and a bit above - a system of pipes. In one of them a rat is running attracted by the smell of trash. The trash stinks so terribly that flies are circulating around it on the surface thinking that it's a pile of poop.
+In the end, we didn't really build a world, but rather created a story. Story: New York, 2020, summer. It's a very hot day, there's steam rising from the ground. We can see the Central park, skyscrappers. Andrés is on his way to drop his kid at the kindergarten, but he's stuck at the highway, there're traffic jams and a car accident. Ambulances are trying to get to the injured man, but can't. Andrés gets his coffee and then goes to the accident scene to film it live. But he's not the only one recording, in the sky behind a cloud a helicopter with a cameraman appears. There's also a park with a Guggenheim exhibition. Under the ground, the subway lives its life and a bit above - a system of pipes. In one of them a rat is running attracted by the smell of trash. The trash stinks so terribly that flies are circulating around it on the surface thinking that it's a pile of poop.
 
 The second test was with Jasmine. This time, I changed pieces of paper to rolls of paper, since it's easier to set up. I definitely need more objects, but the concept works well, everyone is entertained and it's interesting to see how people interprate the objects.
 
 <img src="/research/photos/2024-12-17/IMG_2975%202.JPG" width="500" />
 
-Story behind: we're in Germany, in the mountains. There's a castle on top of the mountain like in Cinderella. On another mountain, goats are running and enjoying their lives. There's a lake with a waterfall and rocks at the bottom. A playground. Suddenly, in the sky a dragon appears. But don't worry, a diabolic angel with thousand eyes is going to fight it. Supporters on the stadium are observing the scene.
+Story: we're in Germany, in the mountains. There's a castle on top of the mountain like in Cinderella. On another mountain, goats are running and enjoying their lives. There's a lake with a waterfall and rocks at the bottom. A playground. Suddenly, in the sky a dragon appears. But don't worry, a diabolic angel with thousand eyes is going to fight it. Supporters on the stadium are observing the scene.
 
 Spent the rest of the day making more objects and setting up for the test day.
 
@@ -334,11 +336,11 @@ Brief
 
 _What I want to explore_
 
-How people can interact with their surroundings through drawing
+How people can interact with their surroundings through drawing.
 
 _How I am going to do it_
 
-- Solutions to “I do not know what to draw” problem (prompts, - cues?)
+- Solutions to “I do not know what to draw” problem (prompts, cues?)
 - Ways to draw in the space (movements, voice, digital brushes)
 - Motivations
 - Community aspect (collaboration, sharing)
@@ -346,7 +348,6 @@ _How I am going to do it_
 _What am I going to create for TEST DAY_
 
 - visual cues (paper prototypes, objects)
-- audio cues (instructions, help a character)
 
 _What are the first steps/experiments?_
 
@@ -358,7 +359,7 @@ _What are the first steps/experiments?_
 
 For my master's thesis I chose the topic of GPS-drawings and running. Among the aspects that I liked and decided to carry on with are:
 
-- drawing your body
+- drawing with your body
 - interacting with the space, getting a new perspective on it
 - using city as your playground
 - community: sharing and creating with others
@@ -380,6 +381,6 @@ Some of the tests
 
 Results:
 
-- The GPS-tracking wasn't precise enough
-- It was hard to position yourself in the space and even harder to coordinate with each other
-- Curious to see the outcome. Doing it together added to the fun
+- The GPS-tracking wasn't precise enough.
+- It was hard to position yourself in the space and even harder to coordinate with each other.
+- Curious to see the outcome. Doing it together added to the fun.
