@@ -1,10 +1,88 @@
 # Master's project research progress
 
+## 14-01-2025
+
+Wanted to try out a bigger setting, but it didn't work, couldn't recognize the surfaces. Maybe it's the limitation of the software or of my iPad.
+
 ## 13-01-2025
 
-<img src="/research/photos/2025-01-13/objects.PNG" width="700" />
+Trying similar tests with Adobe Aero which allows you to add 3D models in the space around you. Limits:
 
-<img src="/research/photos/2025-01-13/objects+drawings.jpg" width="700" />
+- There's already a collection of premade abstract objects. Unfortunatelly, half of them didn't work. And you can't change their colour.
+
+- Can't choose several surface anchors, so had to work with one.
+
+- Can't draw straight away, so had to take photos and add drawings in Procreate.
+
+- Not super convenient to doo it with iPad, and my iPhone couldn't handle the Aero app.
+
+Test 1. World-building by adding 3D objects and 2D drawings.
+
+<img src="/research/photos/2025-01-13/1-1.PNG" width="700" />
+
+<img src="/research/photos/2025-01-13/1-2.jpg" width="700" />
+
+Story: a galaxy with an infinite spiral in the centre with planets circling around. A milkyway with tiny skateboarders. A portal with tentacles coming out of it. A many-eyed angel (idea from a previous test). A giant glass of milk that's being poured in the swirl. (Not a super coherent story).
+
+<img src="/research/photos/2025-01-13/2-1.jpg" width="700" />
+
+<img src="/research/photos/2025-01-13/2-2.jpg" width="700" />
+
+Story: there was an alien spacesheep crush in the mountains not far from an attraction park. There some victims and a memorial was build. Little did we know that some aliens survived and stayed in mountains waiting to attack. Meanwhile, in the park a guy wanted to propose on a roller-coaster but dropped his 10k dollar ring in the pond with catamarans. It's all happening in the full moon.
+
+Feedback/observations:
+
+- It was fun, but limitating.
+
+- Paper tests felt more comfortable and less restrictive. Allowed you to work on several surfaces, both horizontal and vertical.
+
+- For one participant the real background (window, table) was distracting. Felt weird, because classroom is a social place made for working. Had to pretend that we weren't in the classroom. Possibly limited creativity and forced to do more abstract stuff. Another participant didn't really mind the bg.
+
+- It was hard to place 3D objects (bugs of the software and bulkiness of my iPad). But the possibility of placing and scaling the objects was good.
+
+- Colour of objects distracted.
+
+- Preferred drawing more than placing the objects. Limitation of not being able to draw straight away.
+
+- The 3D objects brought back the 3D aspect as opposed to photo tests.
+
+———
+
+Test 2. World-building by adding 3D objects, physical objects and 2D drawings.
+
+<img src="/research/photos/2025-01-13/3-1.jpg" width="700" />
+
+<img src="/research/photos/2025-01-13/3-2.jpg" width="700" />
+
+Story: a weirdly shaped modern building with a pond in front of it and a forest nearby. A road leading to a factory. A floating level of the city and a stairway leading to it.
+
+<img src="/research/photos/2025-01-13/4-1.jpg" width="700" />
+
+<img src="/research/photos/2025-01-13/4-2.jpg" width="700" />
+
+Story: there's a football cup happening in the forest with giant robots playing. The referee is on a platform floating above the ground. The human crowd is observing on the stadium. Once the game is over the robots will go back to the world through a portal.
+
+Feedback/observations:
+
+- More fun with paper stuff due to trickiness of placing physical objects while taking into account the digital ones that you can only see through the app on iPad.
+
+- Was appreciated more than test 1, because of the multiple layers of details (physical, 3D, 2D).
+
+- Still confusing because of the bg.
+
+———
+
+Conclusion:
+
+- 3 levels of objects turned out to be more fun. Probably need to distinguish what 3D and physical objects can be used for.
+
+- Maybe objects could interact with each other?
+
+- Hide some parts of the story and reveal the whole picture at the end?
+
+- Try different scale/setting (whole room, outdoor)
+
+- Set an abstract theme?
 
 ## 10-01-2025
 
@@ -12,7 +90,7 @@ Test of drawing in the space (city), reference: Shira Barzilay (Koketit)
 
 <img src="https://cdn.shopify.com/s/files/1/0269/4846/8770/files/Website_05_fd98475d-9f7a-4bcc-a80b-5f4c34d61c24.jpg?v=1665066911" width="500" />
 
-First test: create a character based on objects on the photos
+Test 1: create a character based on objects on the photos
 
 <img src="/research/photos/2025-01-10/test1-1.jpg" width="500" />
 
@@ -52,7 +130,7 @@ Conclusion:
 
 ———
 
-Second test: make the space on the photo yours, make it more beautiful, add what's missing or whatever you want. Reference: Concrete genie
+Test 2: make the space on the photo yours, make it more beautiful, add what's missing or whatever you want. Reference: Concrete genie
 
 <img src="https://i.ytimg.com/vi/BdOucoGD6EE/maxresdefault.jpg" width="500" />
 
