@@ -1,5 +1,27 @@
 # Master's project research progress
 
+## 15-01-2025
+
+What I learnt so far:
+
+- Abstract objects work well in helping to overcome the blank page syndrome. More concrete objects can work too, but it's more complicated.
+
+- People love creating together.
+
+- The environment itself may not always be enough to spark ideas and may even be distracting.
+
+- World-building and story-telling is more fun than just a character creation.
+
+- Being able to use the 3D space with both horizontal and vertical surfaces is better than a common horizontal plane.
+
+- _Physical objects + 3D + 2D_ is so far the best combination.
+
+- Forcing to use certain objects can be more creatively stimulating.
+
+What's next??
+
+<img src="/research/photos/2025-01-15/IMG_3266.jpg" width="500" />
+
 ## 14-01-2025
 
 Wanted to try out a bigger setting, but it didn't work, couldn't recognize the surfaces. Maybe it's the limitation of the software or of my iPad.
@@ -69,6 +91,8 @@ Feedback/observations:
 - Was appreciated more than test 1, because of the multiple layers of details (physical, 3D, 2D).
 
 - Still confusing because of the bg.
+
+- I find it cool that without an app you can only see some random objects on the table and than with the app you can reveal the significance and see the story (obviously not currently possible, since we can't draw diretly in the app).
 
 ———
 
