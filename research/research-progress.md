@@ -1,5 +1,51 @@
 # Master's project research progress
 
+## 18-01-2025 (open days)
+
+The setup was similar to that from the Test day, but I also added a piece of paper with instructions and a blank spaces for writing down the part of the story you added.
+
+<img src="/research/photos/2025-01-18-open-days/IMG_3345.JPG" width="500" />
+
+<img src="/research/photos/2025-01-18-open-days/IMG_3346.JPG" width="500" />
+
+Observations:
+
+- Some people seemed lazy to read the instructions. Someone saw that it was a project involving drawing and they just drew on the canvas, without learning what it was all about.
+
+- It's easier to create a story using an object as inspiration, as opposed to fitting the object into the story yu want to make.
+
+Ideas:
+
+- Make it trully collaborative. One person puts an object, another draws, the third one explains.
+
+- Make people tell the story based on the created space.
+
+## 16-01-2025 (jury)
+
+References to check:
+
+- Dirk Koy https://www.designboom.com/art/dirk-koy-zurich-360-video-3d-scan-03-10-2017/ - ?
+- Bret Victor https://worrydream.com/
+
+Comments:
+
+- Think about prompts, should it be free as it is now? Can be a sound or a word
+- Think about scenarios, use cases, context
+- Test scales
+- Make mockups
+- Paper landscape that can be unfolded - ?
+- Ignore technology limitations
+- Can be pedagogical, for kids?
+- What is my role in the experience?
+
+———
+
+Official feedback from the jury:
+
+For the Test Day you created a simple but fun and engaging social activity creating stories through drawing objects in geometric spaces etc, like a 3 dimensional Cadavre exquis. This opens up a lot of possible spaces to work in and brings an engaging social aspect to your themes around drawing across spaces.
+
+Your experiments in AR continue these ideas but beware of jumping into digital too early. You have lots of good ideas so keep going with different physical experiments to explore types of space, scales (tables to cities), interactions to understand what works well, how stories are involved, where there are the most interesting human dynamics, interactions etc and what aspects interest you the most to take forwards.
+
 ## 15-01-2025
 
 What I learnt so far:
