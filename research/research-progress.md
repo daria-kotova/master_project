@@ -1,5 +1,155 @@
 # Master's project research progress
 
+## 27-02-2025
+
+Searching for context.
+
+Post. It's mainly used now for parcels and administrative mail. But what about personal letters? The project can be about leaving messages/words that you want to say to someone far or who’s no longer there or can’t be reached. - Will be more about text rather than drawing. Also, why would you share something personal about your relationships with the rest of the world? Needs to be a context that is in general more global but can be interprated in a personal way.
+
+## 26-02-2025 (mid crit)
+
+Feedback:
+
+- I need to think more about (tangible) context, right now my project is more about a tool. - Kinda what I felt.
+- Can be for a museum on some specific topic (like ecosystem in Deep field) (Musée de la Main, Musée de la Rivière, Musée de l'éthnographie). Case study as an investigation
+- Can be a tool for mediation / information / education. - Don't really want it to be educative.
+- Something in the space where people get together and work (library, co-working space?, grande maquette de la ville)
+- Telling stories in different layers: physical scenography + participants' digital input on top. - Don't really want to have a physical part.
+- Theatrical performance
+- Visit of the city, history of the city. - Not a fun.
+- Website of Ville de Genève - have weird themes, like "200 amazing trees of Geneva". - Can be fun
+
+## 25-02-2025
+
+Did one more test with storytelling, 3D objects (png of 3D models) and 2D drawings. This time with Magma, a website that allows you to draw with other people on one canvas - don't need to be physically together.
+
+<img src="/research/photos/2025-02-25/magma-0.png" width="500" />
+<img src="/research/photos/2025-02-25/magma-1.jpg" width="500" />
+<img src="/research/photos/2025-02-25/magma-2.png" width="500" />
+
+- The goal was actually to test if I needed prompts. I used some random text from ChatGPT. Turned out the prompts were just distracting, sometimes we would even forget about them.
+- Confirmed again that the assets do help with inspiration. Even more when they are chosen for you. However, I can't really justify why you would use them in a normal setting.
+- It was fun to guess what the other person was trying to create.
+- Canvas was limitting.
+- Against my idea of doing it in a physical space.
+
+———
+
+Found this project. https://tinanded.com/projects/deepfield
+
+<img src="https://media.graphassets.com/output=format:webp/resize=fit:max,width:1536/0JbaLCXoSGGJOrX6Q6Xc" width="500" />
+<img src="https://media.graphassets.com/output=format:webp/resize=fit:max,width:3072/pejA4af9QNbFnslR7HTy" width="500" />
+
+It's super close to what I want to do. Not sure about 2D input on iPads. Otherwise I like how it is transformed into 3D plants and how it's about co-creating an ecosystem.
+
+———
+
+Preparation for mid-crit
+
+Project text: Unseen is a project that explores the
+hidden stories surrounding us and that
+are waiting to be told.
+The project investigates new ways of
+collective storytelling in the space by
+using 3D objects and 2D drawings in
+augmented reality within a social context.
+The primary goal is to encourage physical
+encounters and co-creation through
+new technologies while reconsidering
+our surroundings. Aiming to bring people
+together through art, it welcomes a broad
+audience interested in new forms of
+storytelling and spatial experiences.
+
+## 24-02-2025
+
+Tested some possible ways of drawing in space with body/ hands.
+
+1. P5js Mediapipe handtracking. Modified the code that I found so that you could draw with right hand, stop drawing with the left one, and when there're no hands detected by the camera the drawings is erased.
+
+<img src="/research/photos/2025-02-24/mediapipe-1.PNG" width="500" />
+<img src="/research/photos/2025-02-24/mediapipe-2.PNG" width="500" />
+<img src="/research/photos/2025-02-24/mediapipe-3.PNG" width="500" />
+
+The code is not perfect, there're some random dots sometimes. The precision is meh, very tricky to draw.
+
+2. Drawing with your body using Kinect. Unity + Kinect Azure + Avatar + trail.
+
+Trail attachd to a hand
+<img src="/research/photos/2025-02-24/kinect-1.PNG" width="500" />
+
+Trail attachd to two hands, useful for simmetrical drawings
+<img src="/research/photos/2025-02-24/kinect-2.PNG" width="500" />
+
+Trail attachd to hands and feet
+<img src="/research/photos/2025-02-24/kinect-3.PNG" width="500" />
+
+It's fun, but useless for meaningful drawing. No wonder that most of the time Kinect is used for large-scale experiences, where it's not about the precision but more about getting general body movements to overlay them with some effects.
+
+3. AR apps
+
+a) Gravity. It's not made for drawing, more for putting text or images in the space. But if you put several "-" in a row it gives you a line.
+
+<img src="/research/photos/2025-02-24/gravity-1.PNG" width="500" />
+<img src="/research/photos/2025-02-24/gravity-2.PNG" width="500" />
+
+Closer to what I want, but lacks precision, the lines don't start exactly where you want them to. Not sure about the interaction: you tap and then drag by moving the phone.
+
+b) Draw in air (Magic Art - Augmented Reality on App Store). Made specifically for AR drawing, but the quality is questionable, just one rating on App store.
+
+<img src="/research/photos/2025-02-24/draw-in-air.PNG" width="500" />
+
+Line position is even worse, they all start at the centre of the screen. Impossible to draw what you want, unless you don't lift your finger from the screen. But drawing with a finger on the screen seems more natural. Also, lines are volumous without closed caps, looks ugly.
+
+4. Spatial p5 by Tibor (MD graduate). P5js in VR with seethrough mode. One of the scripts involves hand-tracking and allows you to draw
+
+<img src="/research/photos/2025-02-24/spatial-p5-2.jpg" width="500" />
+<img src="/research/photos/2025-02-24/spatial-p5-1.jpg" width="500" />
+
+The most precise out of everything tried, hand-tracking is incredible and it's very easy to get what you want. However seethrough mode doesn't really work with Quest 2 (it's all grey and blurry and not visible if you try to cast and record), more suitable for Quest 3. Hence, not super accessible.
+
+Since I want my project to be a) about creating stories through drawing; b) accessible for people; it seems that an AR app would be the best solution. However, I'll need to really figure out how to make it precise. My fear is that it's super tricky and that's why I couldn't find anythting decent. But maybe I should look more.
+
+## 23-02-2025
+
+Trying to define better my concept.
+
+Pistes:
+
+1.  A cadavre exquis in the space. Collaborative drawing in space as I've tried before. No constraints, people just draw together using 2D drawings and 3D forms as a base for the objects they add to the story. Tests showed that it already works as it is.
+
+2.  Help a character. Reference: Ivisible roomates by Eran Hilleli and Nicole He https://www.are.na/block/34729964 You find little characters around you with an app, they're motionless and sad. But ones you start adding stuff into the space (aka creating an environment or home for them) they become active and happy, may interact with what you've added. More players - more players, may interact with eacch other.
+
+<img src="/research/photos/2025-02-24/concept-1.jpg" width="500" />
+
+## 07-02-2025
+
+What kind of storytelling do I want? Simple can be powerful. If it's more elaborated I need to have to prompts. But do I actually? Previous tests showed that no prompts lead to more absurd and interesting results. I guess I would like it to be simple though. Right now my project lacks definition, as in why I want to do this. What's the main topic? Currently, it's more about a tool.
+
+Less is more.
+
+Is it a game with constraints or it's up to the users to create the story? A combination would be nice, so that there's still some space for freedom and creativity. But controlled. How do I define it? No idea.
+
+I like the idea of building (creating) together. What do we build? Worlds. Like in Minecraft. But how to keep people interested in creating, really to encourage them to engage. And that's ignoring the technical side...
+
+I also want to have this side of uncovering. Maybe there's something invisible and users can notice that smth is missing and they need to reveal it in some way.
+
+What's the interaction? How do you move things? Definitely hands. Simpler in a way, smoother and more immersive. And how do objects interact with each other? I guess they can affect each other, like merge for example. Or if one is much bigger than another, it can devour the later? A modular world that's constantly transforming.
+
+## 31-01-2025
+
+Need to define parameters of my project:
+
+- how many users? at the same time several or one by one, all together in one space? - can be one, can be multiple, can also observe previous creations made by others
+- sounds, music inputs/prompts? - bg upbeat simple music. not sure about prompts
+- but how will the user understand what he needs to do? - need a simple onboarding - text and animation? maybe voiceover will be easier after all
+- is it more about the experience itself or the final outcome? - can't really separate one from another, the two are important. But need to be able to share the result, even if it's by leaving it in the space for others to discover
+
+General thoughts:
+
+- Life motion tracking allows you to be yourself in the space. But is it easy to use? How precise?
+- Collective aspect works better in the physical space than 3D. True, it was quite complicated to manipulate 3D objects in Aero. How to make it work?
+
 ## 18-01-2025 (open days)
 
 The setup was similar to that from the Test day, but I also added a piece of paper with instructions and a blank spaces for writing down the part of the story you added.
