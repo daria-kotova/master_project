@@ -17,7 +17,7 @@ Feedback:
 - Telling stories in different layers: physical scenography + participants' digital input on top. - Don't really want to have a physical part.
 - Theatrical performance
 - Visit of the city, history of the city. - Not a fun.
-- Website of Ville de Genève - have weird themes, like "200 amazing trees of Geneva". - Can be fun
+- Website of Ville de Genève - have weird themes, like "250 amazing trees of Geneva" https://www.geneve.ch/themes/environnement-urbain-espaces-verts/ville-nature/arbres/250-arbres-decouvrir. - Can be fun
 
 ## 25-02-2025
 
