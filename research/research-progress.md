@@ -75,13 +75,16 @@ The code is not perfect, there're some random dots sometimes. The precision is m
 
 2. Drawing with your body using Kinect. Unity + Kinect Azure + Avatar + trail.
 
-Trail attachd to a hand
+Trail attached to a hand
+
 <img src="/research/photos/2025-02-24/kinect-1.PNG" width="500" />
 
-Trail attachd to two hands, useful for simmetrical drawings
+Trail attached to two hands, useful for simmetrical drawings
+
 <img src="/research/photos/2025-02-24/kinect-2.PNG" width="500" />
 
-Trail attachd to hands and feet
+Trail attached to hands and feet
+
 <img src="/research/photos/2025-02-24/kinect-3.PNG" width="500" />
 
 It's fun, but useless for meaningful drawing. No wonder that most of the time Kinect is used for large-scale experiences, where it's not about the precision but more about getting general body movements to overlay them with some effects.
@@ -108,7 +111,7 @@ Line position is even worse, they all start at the centre of the screen. Impossi
 
 The most precise out of everything tried, hand-tracking is incredible and it's very easy to get what you want. However seethrough mode doesn't really work with Quest 2 (it's all grey and blurry and not visible if you try to cast and record), more suitable for Quest 3. Hence, not super accessible.
 
-Since I want my project to be a) about creating stories through drawing; b) accessible for people; it seems that an AR app would be the best solution. However, I'll need to really figure out how to make it precise. My fear is that it's super tricky and that's why I couldn't find anythting decent. But maybe I should look more.
+Since I want my project to be a) about creating stories through drawing; b) accessible for people; it seems that an AR app would be the best solution. However, I'll need to really figure out how to make it precise. My fear is that it's super tricky and that's why I couldn't find anything decent. But maybe I should look more.
 
 ## 23-02-2025
 
@@ -116,15 +119,15 @@ Trying to define better my concept.
 
 Pistes:
 
-1.  A cadavre exquis in the space. Collaborative drawing in space as I've tried before. No constraints, people just draw together using 2D drawings and 3D forms as a base for the objects they add to the story. Tests showed that it already works as it is.
+1.  A cadavre exquis in the space but for creating stories. Collaborative drawing in space as I've tried before. No constraints, people just draw together using 2D drawings and 3D forms as a base for the objects they add to the story. Tests showed that it already works as it is.
 
-2.  Help a character. Reference: Ivisible roomates by Eran Hilleli and Nicole He https://www.are.na/block/34729964 You find little characters around you with an app, they're motionless and sad. But ones you start adding stuff into the space (aka creating an environment or home for them) they become active and happy, may interact with what you've added. More players - more players, may interact with eacch other.
+2.  Help a character. Reference: Ivisible roomates by Eran Hilleli and Nicole He https://www.are.na/block/34729964 You find little characters around you with an app, they're motionless and sad. But once you start adding stuff into the space (aka creating an environment or home for them) they become active and happy, may interact with what you've added. More players - more characters, may interact with each other.
 
 <img src="/research/photos/2025-02-24/concept-1.jpg" width="500" />
 
 ## 07-02-2025
 
-What kind of storytelling do I want? Simple can be powerful. If it's more elaborated I need to have to prompts. But do I actually? Previous tests showed that no prompts lead to more absurd and interesting results. I guess I would like it to be simple though. Right now my project lacks definition, as in why I want to do this. What's the main topic? Currently, it's more about a tool.
+What kind of storytelling do I want? Simple can be powerful. If it's more elaborated I need to have prompts. But do I actually? Previous tests showed that no prompts lead to more absurd and interesting results. I guess I would like it to be simple though. Right now my project lacks definition, as in why I want to do this. What's the main topic? Currently, it's more about a tool.
 
 Less is more.
 
@@ -140,10 +143,10 @@ What's the interaction? How do you move things? Definitely hands. Simpler in a w
 
 Need to define parameters of my project:
 
-- how many users? at the same time several or one by one, all together in one space? - can be one, can be multiple, can also observe previous creations made by others
-- sounds, music inputs/prompts? - bg upbeat simple music. not sure about prompts
-- but how will the user understand what he needs to do? - need a simple onboarding - text and animation? maybe voiceover will be easier after all
-- is it more about the experience itself or the final outcome? - can't really separate one from another, the two are important. But need to be able to share the result, even if it's by leaving it in the space for others to discover
+- How many users? at the same time several or one by one, all together in one space? - can be one, can be multiple, can also observe previous creations made by others
+- Sounds, music inputs/prompts? - bg upbeat simple music. not sure about prompts
+- But how will the user understand what he needs to do? - need a simple onboarding - text and animation? maybe voiceover will be easier after all
+- Is it more about the experience itself or the final outcome? - can't really separate one from another, the two are important. But need to be able to share the result, even if it's by leaving it in the space for others to discover
 
 General thoughts:
 
