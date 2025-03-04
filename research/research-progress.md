@@ -1,5 +1,19 @@
 # Master's project research progress
 
+## 04-03-2025
+
+Geneva is a true melting pot.
+
+https://www.swisstranslate.ch/news/ville-de-geneve/
+"Considérée comme étant l’une des villes et cantons les plus cosmopolites du pays, la réputation de Genève en tant que centre international a un effet durable sur sa culture actuelle. Aujourd’hui, près de 40% de la population se compose d’immigrants et de leurs descendants. Ainsi, cette présence de nombreuses communautés étrangères se reflète parune diversité linguistique et culturelle, et par un mélange unique d’influences françaises, allemandes, italiennes, portugaises et espagnoles."
+
+Just like different cultures mix together and form a unique combination in the city, this project is also about mixing stories to end up with one unique ccombination (or not one). Participants introduce their objects into the space thus forming a collection of objects, they are then combined together and a final outcome is generated. You can interact with it because you write your own story in the city.
+
+Thoughts:
+
+- Can be too political
+- Prompts for participants, something that would uncover different perspectives; - what is Geneva for you?
+
 ## 27-02-2025
 
 Searching for context.
