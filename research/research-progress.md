@@ -11,8 +11,9 @@ Just like different cultures mix together and form a unique combination in the c
 
 Thoughts:
 
+- Prompts for participants, something that would uncover different perspectives; - what is Geneva for you? What do you like the most about Geneva?
 - Can be too political
-- Prompts for participants, something that would uncover different perspectives; - what is Geneva for you?
+- Can be repetitive - need to ask around
 
 ## 27-02-2025
 
