@@ -7,6 +7,33 @@ Space = outer space -> cosmos
 
 Bringing space to space.
 
+# 12-03-2025
+
+Talked to Pierre. For multiplayer I'll need to use a server, as well a database for keeping creating drawings so that you can see them later.
+
+Need to ckeck out persistant anchors - for putting planes and saving them for later.
+
+# 11-03-2025
+
+Finally managed to import a key shape animation from Blender into Unity (just .fbx didn't work, alimbic requires a plug-in and there's a complication with textures).
+
+How: 1) export from Blender your model in mdd (separate for each moving mesh) and .fbx (note 1: fbx should be without any animation to avoid extra frames; note 2: curves should be transformed to meshes), .mdd alows to create more frames between your existing frames, so that the animation is smooth in Unity; 2) reinport in Blender .fbx, click on the mesh and import its animation in .mdd. 3) export .fbx again. 4) import last .fbx in Unity, this time it has all the keyframe info. 5) add BlendShapeTool script that switches between frames. 6) ta-daa.
+
+<img src="/research/photos/2025-03-11/blob-anim-1.mov" height="500" />
+<img src="/research/photos/2025-03-11/blob-anim-2.mov" height="500" />
+
+# 10-03-2025
+
+Trying Unity AR mobile template that already has basic UI and interactions. It allows you to detect a plane and then spawn multiple objects on it, as well as turn them around Z axis and scale.
+
+<img src="/research/photos/2025-03-10/blob2.PNG" height="500" />
+
+# 07-03-2025
+
+First tests with AR using iPhone's AR Quick Look. Need to use .usdz file format, but couldn't figure out how to add animation with it.
+
+<img src="/research/photos/2025-03-07/blob1.JPG" height="500" />
+
 # 04-03-2025
 
 Geneva is a true melting pot.
