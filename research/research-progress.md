@@ -1,6 +1,13 @@
 # Master's project research progress
 
-## 04-03-2025
+# 12-03-2025
+
+Space = where we are, what surrounds us.
+Space = outer space -> cosmos
+
+Bringing space to space.
+
+# 04-03-2025
 
 Geneva is a true melting pot.
 
