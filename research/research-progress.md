@@ -6,7 +6,7 @@ Drawing lines in space with an ARDrawManager script using LineRenderer and ARAnc
 
 <img src="/research/photos/2025-03-17/IMG_3902.jpg" height="500"/>
 
-Interestingly, the drawing stays even I draw for a very long time moving far away from the ARPlane created at the beginning.
+Interestingly, the drawing stays even if I draw for a very long time moving far away from the ARPlane created at the beginning.
 
 <img src="/research/photos/2025-03-17/IMG_3903.jpg" height="500"/>
 <img src="/research/photos/2025-03-17/IMG_3904.jpg" height="500"/>
