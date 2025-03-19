@@ -1,11 +1,29 @@
 # Master's project research progress
 
+# 13-03-2025
+
+More “serious“ context:
+
+- unburdening yourself by drawing/writing emotions, stress, etc. Others can interact with it and make it go away - doesn’t encourage collaboration
+- Switzerland = Alps. Recreating mountain landscape in urban landscape - can be repetitive
+- Same but for Lac Léman
+- Collective tapestry - boring
+
 # 12-03-2025
 
 Space = where we are, what surrounds us.
 Space = outer space -> cosmos
 
 Bringing space to space.
+
+The galaxy is endless and we can only guess what happens at the furthest corners of it. This opens up space for imagination. Participants create together their parts of the galaxy (star systems). It may be something normal as just planets, spaceships, etc. But nothing stops them from coming with something super weird, like a flying cows civilisation. All created star systems form the interpretation of the galaxy.
+
+- 2D + 3D drawings in space
+- possibility of drawing together
+- possibility of revisiting what you created in a specific location or what others did
+- animation for objects
+
+Reference: The Hitchhiker's guide to the galaxy
 
 # 12-03-2025
 
