@@ -1,5 +1,16 @@
 # Master's project research progress
 
+# 17-03-2025
+
+Drawing lines in space with an ARDrawManager script using LineRenderer and ARAnchors (tutorial https://www.youtube.com/watch?v=kcqcUxVQu0o). Had to adapt his code because a lot of things we deprecated and not working in Unity 6. But it works now!
+
+<img src="/research/photos/2025-03-17/IMG_3902.jpg" width="500"/>
+
+Interestingly, the drawing stays even I draw for a very long time moving far away from the ARPlane created at the beginning.
+
+<img src="/research/photos/2025-03-17/IMG_3903.jpg" width="500"/>
+<img src="/research/photos/2025-03-17/IMG_3904.jpg" width="500"/>
+
 # 13-03-2025
 
 More “serious“ context:
