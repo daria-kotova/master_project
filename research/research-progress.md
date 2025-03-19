@@ -2,7 +2,7 @@
 
 # 17-03-2025
 
-Drawing lines in space with an ARDrawManager script using LineRenderer and ARAnchors (tutorial https://www.youtube.com/watch?v=kcqcUxVQu0o). Had to adapt his code because a lot of things we deprecated and not working in Unity 6. But it works now!
+Drawing lines in space with an ARDrawManager script using LineRenderer and ARAnchors (tutorial https://www.youtube.com/watch?v=kcqcUxVQu0o). Had to adapt his code because a lot of things were deprecated and not working in Unity 6. But it works now!
 
 <img src="/research/photos/2025-03-17/IMG_3902.jpg" height="500"/>
 
