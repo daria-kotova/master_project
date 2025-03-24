@@ -14,7 +14,7 @@ https://youtube.com/shorts/PcMrJB1Vq4g
 
 The Mateverse Galaxy:
 
-<img src="/research/photos/2025-03-24/IMG_3968.jpg" height="500"/>
+<img src="/research/photos/2025-03-24/IMG_3968.PNG" height="500"/>
 
 https://youtube.com/shorts/Ucl77LlmSfY
 
