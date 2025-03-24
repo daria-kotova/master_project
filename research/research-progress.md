@@ -1,5 +1,48 @@
 # Master's project research progress
 
+# 24-03-2025
+
+Made an onboarding of the app that explains what it is all about. The goal was to try to encourage people to get creative.
+
+https://www.figma.com/proto/t68CNqnTVMu54R0LAwRDKz/Unseen42?page-id=0%3A1&node-id=27-42&p=f&viewport=414%2C113%2C0.81&t=3H6SyejqKeisJWrk-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A30
+
+The Tree Galaxy and The Happy Sphere Galaxy:
+
+<img src="/research/photos/2025-03-24/IMG_3965.jpg" width="500"/>
+
+https://youtube.com/shorts/PcMrJB1Vq4g
+
+The Mateverse Galaxy:
+
+<img src="/research/photos/2025-03-24/IMG_3968.jpg" height="500"/>
+
+https://youtube.com/shorts/Ucl77LlmSfY
+
+Feedback / observations:
+
+- Already existng absurd names in the onboarding do make you think that you can create absurd stuff. But not everyone reads the text. Added "why not flying cows" in the explanation to give more ideas of what your galaxy can be made of.
+- People need time to adjust to the interaction and understand how it works.
+- Add some marker or plane to see where exactly you're drawing.
+- Maybe it's better to name the galaxy before creating it. But one person didn't want to. Added "name your galaxy" field.
+- The third person started creating his galaxy based on actual physical objects (cans of Mate). This wouldn't stay once the galaxy is added to the Universe. Need 3D objects or object detection (no idea how this may work, maybe with preselected objects?).
+- Anchors didn't stay and moved once I paused the app :(
+- Add possibility to join the galaxy that is currently being created.
+- Create clusters of galaxies in the Universe to show those that were created in one space (one room).
+- Try with colours.
+- Possibility of changing style with a shader (e.g. environment is b&w and drawings are colourful, like UV mode in Deep Field project)
+- What is the final goal? How to make people continue using it?
+- AI that recognizes what you draw (cool, but I can't have everything)
+- Objects can affect each other?
+- Need to test with someone who doesn't know my project at all.
+
+# 23-03-2025
+
+Thinking about the structure of what people will be creating
+
+<img src="/research/photos/2025-03-23/IMG_3971.jpg" width="500"/>
+
+So, they will be creating galaxies with stars and planets inside. The galaxies will be then added to the Universe consisting of all the previously created galaxies. Once you create your galaxy, you can choose the "Explore mode" to see the collective Universe.
+
 # 17-03-2025
 
 Drawing lines in space with an ARDrawManager script using LineRenderer and ARAnchors (tutorial https://www.youtube.com/watch?v=kcqcUxVQu0o). Had to adapt his code because a lot of things were deprecated and not working in Unity 6. But it works now!
@@ -48,8 +91,8 @@ Finally managed to import a key shape animation from Blender into Unity (just .f
 
 How: 1) export from Blender your model in mdd (separate for each moving mesh) and .fbx (note 1: fbx should be without any animation to avoid extra frames; note 2: curves should be transformed to meshes), .mdd alows to create more frames between your existing frames, so that the animation is smooth in Unity; 2) reinport in Blender .fbx, click on the mesh and import its animation in .mdd. 3) export .fbx again. 4) import last .fbx in Unity, this time it has all the keyframe info. 5) add BlendShapeTool script that switches between frames. 6) ta-daa.
 
-https://vimeo.com/1065291011?share=copy
-https://vimeo.com/1065291528?share=copy
+https://youtube.com/shorts/j7UD8O3bAqw
+https://youtube.com/shorts/A6DjCMNqwNg
 
 # 10-03-2025
 
