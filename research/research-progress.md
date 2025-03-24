@@ -4,7 +4,7 @@
 
 Made an onboarding of the app that explains what it is all about. The goal was to try to encourage people to get creative.
 
-https://www.figma.com/proto/t68CNqnTVMu54R0LAwRDKz/Unseen42?page-id=0%3A1&node-id=27-42&p=f&viewport=414%2C113%2C0.81&t=3H6SyejqKeisJWrk-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A30
+https://www.figma.com/design/t68CNqnTVMu54R0LAwRDKz/Unseen42?node-id=1-30&t=u7DMD6VW20VYMNOo-1
 
 The Tree Galaxy and The Happy Sphere Galaxy:
 
