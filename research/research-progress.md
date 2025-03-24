@@ -31,7 +31,7 @@ The galaxy is endless and we can only guess what happens at the furthest corners
 
 - 2D + 3D drawings in space
 - possibility of drawing together
-- possibility of revisiting what you created in a specific location or what others did
+- possibility of revisiting what you created or what others did in a specific location
 - animation for objects
 
 Reference: The Hitchhiker's guide to the galaxy
