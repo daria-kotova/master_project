@@ -1,5 +1,39 @@
 # Master's project research progress
 
+# 30-03-2025
+
+Managed to save and reload lines locally! Right now it's just with a txt file with only position data. Will now try it with Firebase and then move to JSON format to store more types of data.
+
+# 28-03-2025
+
+- How the galaxies are placed? Makes sense if they are spread in the space because in the actual space there's a lot of void. But not too much so that you can still explore by walking in one space without having to cover large distances.
+- Possible animation: once you approach a galaxy it becomes active (changes colour?) and you can interact with it (see its name and other info). Can probably use distance from the camera for activation part.
+- It can be a sort of a social experiment then I wouldn't need to curate it.
+- Who's talking to the user? Somebody from the space who's curious to see the results?
+- Possible way of helping with ideas: ask some random question (like "what's you favourite animal?") -> it'll define the name of your galaxy. Can also have "choose for me", where a random name is poroposed. Or choose from a database of names.
+- Once you finish, oher galaxies appear around you. Maybe the lines appear gradually. The camera can become darker, while the lines can start glowing.
+- May be better with just lines (no 3D objects) to make it minimalistic and coherent. Need to test.
+
+Next steps:
+
+- Onboarding. What exactly is this all about?
+- Save lines and reload them
+
+# 26-03-2025 (mid-crit)
+
+Feedback:
+
+- Space in space sounds good, my overall intention was clear.
+- Need to think about the scale, how I make transitions between galaxies and the universe.
+- Right now it feels like my project can be about space but it can also be about anything. Need to choose and angle and add more of space vocabulary / characteristics so that you can understnad that it's about space visually, without reading the text. - May become clearer once I figure out more the Universe part
+- How would "join" work? Is it with someone nearby or with anyone currently using the app. What if they don't want you to join.
+
+Reference about scale (infinitely small - infinitely large):
+
+- Film "the Powers of ten"
+- Game "Everything"
+- https://mikma.ch/presskit/
+
 # 24-03-2025
 
 Made an onboarding of the app that explains what it is all about. The goal was to try to encourage people to get creative.
