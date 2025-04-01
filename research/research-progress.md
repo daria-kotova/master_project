@@ -1,8 +1,16 @@
 # Master's project research progress
 
+# 01-04-2025
+
+Not to be dramatic, but so far trying to use Firestore is a big fail :(
+
+It worked at first, saved my AR drawings and all. And then today I checked and there were hundreds of files. Turns out they're generated every time I simply open the app and don't even do anything. It seems there's a lag in the way it's updated, because I saw changes in the Firestore file structure an hour after I had added them in my script and when I no longer had them, cause I thought they hadn't work and deleted them... Probably issue comes from multiple calls. But I don't even know where they come from. At the end, I exceeded the daily free quota of writes and reads.
+
+Gonna step back and try with a simple file. Sad.
+
 # 30-03-2025
 
-Managed to save and reload lines locally! Right now it's just with a txt file with only position data. Will now try it with Firebase and then move to JSON format to store more types of data.
+Managed to save and reload lines locally! Right now it's just with a txt file with only position data. Will now try it with Firebase.
 
 # 28-03-2025
 
