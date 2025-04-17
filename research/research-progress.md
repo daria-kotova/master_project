@@ -15,6 +15,11 @@ https://www.universaleverything.com/artworks/hyperspace
 - Universe view looks like light painting exhibition (...)
 - Daniel was confused
 
+# 15-04-2025
+
+New figma prototype with onboarding
+https://www.figma.com/proto/t68CNqnTVMu54R0LAwRDKz/Unseen42?page-id=0%3A1&node-id=193-130&viewport=252%2C356%2C0.31&t=BsOL57BuLktGFFtw-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=193%3A86&show-proto-sidebar=1
+
 # 14-04-2025
 
 Talked to Alexia.
