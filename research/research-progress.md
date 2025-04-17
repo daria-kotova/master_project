@@ -1,5 +1,37 @@
 # Master's project research progress
 
+# 16-04-2025 (mid-jury)
+
+- What do I want to do with it later?
+- Lacking the storytelling aspect that I used to have in my paper tests
+- Tell more about the galaxy
+- Use the actual space more (interactions, objects), prompting in the environment, environment can respond to what you do?
+https://www.universaleverything.com/artworks/hyperspace 
+- Mixed media from different realities, not just colour
+- Me as a mediator of the game? Have a different dynamique
+- Continue with the onboarding esthetics
+- How to extend the engagement for it to last longer
+- How to make people understand they can join others
+- Universe view looks like light painting exhibition (...)
+- Daniel was confused
+
+# 14-04-2025
+
+Talked to Alexia.
+
+- I should choose if I want real images (like from NASA) or somthing imaginary (would require a narrative)
+- Vibe-coding -> vide world-building - creating with AI, get inspired by the way we generate stuff with AI
+https://www.instagram.com/p/DHRwgEpStGk/?hl=fr
+https://updates.midjourney.com/patchwork-user-guide/ 
+- Mixed media: AR + physical objects. Co-create / interact with surroundings
+- Right now onboarding is disconnected from the rest
+- What's the incentive?
+- Lacking metaphore, the core
+- Who is it for? "Everyone" does't work
+- Bring the magic, filters?
+- At the end a text about what's been drawn?
+- Maybe drawing is just a part of the experience
+
 # 01-04-2025
 
 Not to be dramatic, but so far trying to use Firestore is a big fail :(
