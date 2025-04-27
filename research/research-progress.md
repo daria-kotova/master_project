@@ -1,5 +1,50 @@
 # Master's project research progress
 
+# 27-04-2025
+
+After some reflection, I think I want to go back to my original tests with cadavre-exquis-like side where people were building parts of a story one by one. So my project should be:
+
+- Collective
+- Creating a story / smth
+- Step by step
+- Fun!
+- It would be nice to have a combination of 2D and 3D
+- For who? Teens, young adults (15-35 yo)
+
+———
+
+Finally wrote some texts.
+
+Text 1 (space junk)
+
+Not to be dramatic or anything, but humanity is a mess. Some of us can't even keep our homes tidy without having to be prompted for a last-minute cleanup before guests arrive. Streets are littered with trash, as if there aren't enough bins around. And let's not even get started on pollution on all the possible levels. But it doesn't stop on the planetary level. Ever heard of space junk? Thousands of dysfunctional satellites and broken pieces of rockets orbitting the Earth and potentially threatening to make its orbit unusable one day. But guess what? We aren't the only ones like this. Turns out, aliens aren’t much better. We just haven’t made it to their galaxies yet to see it. But now you have the chance. Travel across the universe, explore the cosmic chaos. And while you're at it, why not turn some of the junk into something nice? Create art, send a message, tell your story, leave your trace. Earth invented trash art, it’s time the universe caught up. And don't worry, you won't be doing it alone. After all, unclattering the universe isn’t a one-person job.
+
+- 3D objects that get sense through added 2D drawings, like in my first tests
+- Can use real fun galaxy names for setting the AR scene of each galaxy
+
+Text 2 (shooting stars, meteor showers)
+
+A shooting star streaks across the night sky, leaving behind a fleeting trail of light. Once a solitary rock drifting through space for what seemed like eternity, witnessing everything and nothing, it entered our planet's atmosphere to shine for one brief moment before disappearing once and for all. But what if that moment could last longer? What if the stars could speak? What stories would they tell? In this game, you become the voice of the stars. Together with other players, you draw star trails, piece by piece, unfolding stories across the sky. Mark the sky with unseen trails. Tell the untold stories of the stars.
+
+- Players draw star trails creating stories together, adding pieces of drawings one by one (AR cadavre exquis). The final result is added to the collective sky.
+- A bit away from the space in space idea
+- Just 2D lines, no 3D
+- The collective sky view can be as it is now, but what about the drawing mode?
+
+Text 3 (dark matter)
+
+We were here before you. We will be here long after you are gone. You do not see us, but we see you. We exist in the dark, the dark matter. You wish to know us, but how can we understand each other? Words are too small, languages are too fleeting. There is only one way: the language of symbols and forms, a language understood by everyone and everything. The drawings. This is how you can begin to understand us. But this is not about uncovering who we are. It is about discovering each other. It is about seeing what is already there and what you have not yet learnt to see. Weave the unseen stories together across the void, one mark, one symbol, one thought at a time. Together, you will light up the dark.
+
+- Got carried away, no space present oops
+
+Text 4 (new life)
+
+April 17, 2025 was marked by a new study suggesting the possibility of the presence of life on K2-18b, a planet 124 light years away from Earth. 
+
+to be continued...
+
+Maximize the survival of some cosmic tribe
+
 # 16-04-2025 (mid-jury)
 
 - What do I want to do with it later?
