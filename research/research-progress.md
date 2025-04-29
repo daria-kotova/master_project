@@ -1,5 +1,11 @@
 # Master's project research progress
 
+# 28-04-2025
+
+Text 1 (rewritten from the aliens' perspective)
+
+Not to be dramatic or anything, but the universe is a mess. Some aliens can't even keep their spaceships in order without scrambling for a last-minute cleanup before guests dock. Planets are littered with debris, as if waste disposals and recycling systems were some ancient humankind myth. But it doesn't stop on the planetary level. Ever heard of space junk? Thousands of dysfunctional satellites, shattered ships, pieces of abandonned stations, circling the space and potentially threatening to make it unusable one day. And now, you have the chance to see it for yourself. Travel across the galaxies, explore the cosmic chaos. And while you're at it, why not turn some of the junk into something nice? Create art, send a message, tell your story, leave your trace. Trash art isn’t just for planets anymore. The universe could use a little creativity. And don't worry, you won't be doing it alone. After all, unclattering the universe isn’t a one-person job.
+
 # 27-04-2025
 
 After some reflection, I think I want to go back to my original tests with cadavre-exquis-like side where people were building parts of a story one by one. So my project should be:
