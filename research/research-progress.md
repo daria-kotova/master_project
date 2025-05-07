@@ -1,5 +1,21 @@
 # Master's project research progress
 
+# 06-05-2025
+
+Created my space trash assets by scanning weird trash I found at a construction site using Scaniverse. Textures from photos of trash.
+
+<img src="/research/photos/2025-05-06/objects.jpg" width="500"/>
+
+<img src="/research/photos/2025-05-06/objects_drawings.jpg" width="500"/>
+
+Moodboard and storyboard for the discussion with photograph:
+
+<img src="/research/photos/2025-05-06/moodboard.jpg" width="500"/>
+
+<img src="/research/photos/2025-05-06/storyboard.jpg" width="500"/>
+
+
+
 # 28-04-2025
 
 Text 1 (rewritten from the aliens' perspective)
