@@ -12,7 +12,7 @@ Moodboard and storyboard for the discussion with photograph:
 
 <img src="/research/photos/2025-05-06/moodboard.jpg" width="500"/>
 
-<img src="/research/photos/2025-05-06/storyboard.jpg" width="500"/>
+<img src="/research/photos/2025-05-06/storyboard.JPG" width="500"/>
 
 
 
