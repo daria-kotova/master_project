@@ -1,5 +1,11 @@
 # Master's project research progress
 
+# 07-05-2025
+
+Managed to make my assets grabable, now you can move and turn them. Interesting observation: my bf made a monster out of them without even being prompted and he loved the interaction.
+
+<img src="/research/photos/2025-05-07/monster.jpg" width="500"/>
+
 # 06-05-2025
 
 Created my space trash assets by scanning weird trash I found at a construction site using Scaniverse. Textures from photos of trash.
